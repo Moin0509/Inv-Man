@@ -1,1 +1,1 @@
-# Inv-Man
+# Inventory-Management-System
